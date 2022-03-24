@@ -3,11 +3,6 @@
 Test-Repo
 
 Niklas
-
-Luc
-
-
-
 Gustav
 Hajar
-Luc 
+Luc
